@@ -1,0 +1,1 @@
+# go-bip39-bindings
